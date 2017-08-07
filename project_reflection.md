@@ -8,7 +8,7 @@
 **Describe how the final hyperparameters were chosen**
 Finaly hyperparameters choice:
 
-**P = -0.5**
+**P = -0.1**
 **I = -0.001**
 **D = -0.9**
 
